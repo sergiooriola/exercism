@@ -1,0 +1,323 @@
+# Python track plan
+
+A 50-day plan to complete the 140 exercises that remained on Exercism's
+Python track after the first 6 (146 in total: 17 concept exercises and 129
+practice exercises).
+
+- Exercises are listed in the order to solve them. The order respects the
+  track's unlock rules and goes from easier to harder.
+- Concept exercises are marked in **bold**. Each one teaches a new concept;
+  the practice exercises after it put that concept to use.
+- Days 10, 20, 30 and 40 are buffer days: left empty to catch up or rest.
+- Hours are rough estimates based on each exercise's difficulty rating.
+  The plan is reviewed on days 10 and 20 against the real pace.
+
+Download an exercise with:
+
+```bash
+exercism download --track=python --exercise=<name>
+```
+
+## Days 1–10: strings, lists, loops, tuples and dicts
+
+### Day 1 (~5 h)
+
+- [ ] raindrops
+- [ ] leap
+- [ ] triangle
+- [ ] darts
+- [ ] **little-sisters-vocab**
+- [ ] reverse-string
+
+### Day 2 (~4.5 h)
+
+- [ ] line-up
+- [ ] **little-sisters-essay**
+- [ ] bob
+- [ ] **card-games**
+
+### Day 3 (~6 h)
+
+- [ ] resistor-color
+- [ ] resistor-color-duo
+- [ ] **chaitanas-colossal-coaster**
+- [ ] resistor-color-trio
+- [ ] resistor-color-expert
+- [ ] **making-the-grade**
+
+### Day 4 (~4.5 h)
+
+- [ ] collatz-conjecture
+- [ ] grains
+- [ ] difference-of-squares
+- [ ] armstrong-numbers
+- [ ] perfect-numbers
+- [ ] isogram
+
+### Day 5 (~5 h)
+
+- [ ] pangram
+- [ ] hamming
+- [ ] rna-transcription
+- [ ] pig-latin
+- [ ] isbn-verifier
+- [ ] rotational-cipher
+
+### Day 6 (~4.5 h)
+
+- [ ] secret-handshake
+- [ ] anagram
+- [ ] binary-search
+- [ ] flatten-array
+- [ ] list-ops
+- [ ] house
+
+### Day 7 (~5.5 h)
+
+- [ ] **tisbury-treasure-hunt**
+- [ ] square-root
+- [ ] acronym
+- [ ] eliuds-eggs
+- [ ] prime-factors
+
+### Day 8 (~5 h)
+
+- [ ] series
+- [ ] twelve-days
+- [ ] roman-numerals
+- [ ] **inventory-management**
+- [ ] etl
+
+### Day 9 (~5 h)
+
+- [ ] space-age
+- [ ] word-count
+- [ ] scrabble-score
+- [ ] protein-translation
+- [ ] sublist
+
+### Day 10
+
+Buffer day.
+
+## Days 11–20: sets, classes and generators
+
+### Day 11 (~5.5 h)
+
+- [ ] matching-brackets
+- [ ] **mecha-munch-management**
+- [ ] atbash-cipher
+- [ ] diamond
+- [ ] run-length-encoding
+
+### Day 12 (~4.5 h)
+
+- [ ] nth-prime
+- [ ] say
+- [ ] **locomotive-engineer**
+- [ ] proverb
+
+### Day 13 (~5.5 h)
+
+- [ ] transpose
+- [ ] **cater-waiter**
+- [ ] two-fer
+- [ ] sum-of-multiples
+- [ ] sieve
+
+### Day 14 (~5 h)
+
+- [ ] saddle-points
+- [ ] pythagorean-triplet
+- [ ] **ellens-alien-game**
+- [ ] gigasecond
+
+### Day 15 (~5 h)
+
+- [ ] luhn
+- [ ] dnd-character
+- [ ] robot-name
+- [ ] phone-number
+- [ ] queen-attack
+
+### Day 16 (~5.5 h)
+
+- [ ] yacht
+- [ ] high-scores
+- [ ] matrix
+- [ ] kindergarten-garden
+
+### Day 17 (~4.5 h)
+
+- [ ] grade-school
+- [ ] **plane-tickets**
+- [ ] game-of-life
+
+### Day 18 (~4.5 h)
+
+- [ ] state-of-tic-tac-toe
+- [ ] ocr-numbers
+- [ ] bottle-song
+
+### Day 19 (~6 h)
+
+- [ ] allergies
+- [ ] simple-cipher
+- [ ] wordy
+- [ ] crypto-square
+
+### Day 20
+
+Buffer day.
+
+## Days 21–30: medium difficulty
+
+### Day 21 (~4.5 h)
+
+- [ ] clock
+- [ ] robot-simulator
+- [ ] circular-buffer
+
+### Day 22 (~4.5 h)
+
+- [ ] simple-linked-list
+- [ ] tree-building
+- [ ] poker
+
+### Day 23 (~5 h)
+
+- [ ] rectangles
+- [ ] connect
+- [ ] all-your-base
+
+### Day 24 (~6 h)
+
+- [ ] swift-scheduling
+- [ ] spiral-matrix
+- [ ] variable-length-quantity
+
+### Day 25 (~4 h)
+
+- [ ] change
+- [ ] killer-sudoku-helper
+
+### Day 26 (~6 h)
+
+- [ ] flower-field
+- [ ] rail-fence-cipher
+- [ ] palindrome-products
+
+### Day 27 (~4 h)
+
+- [ ] tournament
+- [ ] food-chain
+
+### Day 28 (~6 h)
+
+- [ ] scale-generator
+- [ ] largest-series-product
+- [ ] markdown
+
+### Day 29 (~4 h)
+
+- [ ] meetup
+- [ ] pascals-triangle
+
+### Day 30
+
+Buffer day.
+
+## Days 31–40: high difficulty
+
+### Day 31 (~6 h)
+
+- [ ] grep
+- [ ] linked-list
+- [ ] complex-numbers
+
+### Day 32 (~4 h)
+
+- [ ] ledger
+- [ ] hangman
+
+### Day 33 (~5 h)
+
+- [ ] go-counting
+- [ ] relative-distance
+
+### Day 34 (~6 h)
+
+- [ ] camicia
+- [ ] forth
+
+### Day 35 (~6 h)
+
+- [ ] binary-search-tree
+- [ ] rational-numbers
+
+### Day 36 (~3 h)
+
+- [ ] bowling
+
+### Day 37 (~6 h)
+
+- [ ] knapsack
+- [ ] dot-dsl
+
+### Day 38 (~6 h)
+
+- [ ] custom-set
+- [ ] zebra-puzzle
+
+### Day 39 (~3.5 h)
+
+- [ ] affine-cipher
+
+### Day 40
+
+Buffer day.
+
+## Days 41–50: the hardest exercises
+
+### Day 41 (~7 h)
+
+- [ ] word-search
+- [ ] bank-account
+
+### Day 42 (~3.5 h)
+
+- [ ] two-bucket
+
+### Day 43 (~3.5 h)
+
+- [ ] alphametics
+
+### Day 44 (~7 h)
+
+- [ ] zipper
+- [ ] react
+
+### Day 45 (~4 h)
+
+- [ ] dominoes
+
+### Day 46 (~4 h)
+
+- [ ] satellite
+
+### Day 47 (~8 h)
+
+- [ ] book-store
+- [ ] sgf-parsing
+
+### Day 48 (~4 h)
+
+- [ ] paasio
+
+### Day 49 (~5 h)
+
+- [ ] rest-api
+
+### Day 50 (~5 h)
+
+- [ ] pov

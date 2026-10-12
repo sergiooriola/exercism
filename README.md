@@ -14,6 +14,7 @@ a professional Python toolchain.
 ├── .vscode/                  # VS Code settings for this workspace
 └── python/
     ├── .venv/                # Virtual environment (not tracked)
+    ├── PLAN.md               # 50-day plan for the remaining exercises
     ├── pyproject.toml        # Tool configuration and dev dependencies
     └── <exercise>/           # One folder per exercise
         ├── README.md         # Instructions
