@@ -30,8 +30,8 @@ exclude = ['_test\.py$', '\.venv']
 [tool.ruff]
 target-version = "py313"
 line-length = 88
-# Skip Exercism's test files: they are not our code.
-extend-exclude = ["*_test.py"]
+# Skip Exercism's test files and Markdown docs: they are not our code.
+extend-exclude = ["*_test.py", "*.md"]
 
 [tool.ruff.lint]
 select = [
