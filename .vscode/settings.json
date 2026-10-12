@@ -1,0 +1,27 @@
+{
+    // VS Code settings that apply only when this folder is open.
+
+    // Use the virtual environment's Python, where pytest, mypy and ruff
+    // are installed.
+    "python.defaultInterpreterPath": "${workspaceFolder}/python/.venv/bin/python",
+
+    // Activate the virtual environment in new integrated terminals.
+    "python.terminal.activateEnvironment": true,
+
+    "[python]": {
+        // Ruff formats Python files, and does so on every save.
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
+    },
+
+    // Vertical guide at the maximum line length set in pyproject.toml.
+    "editor.rulers": [88],
+
+    // Run the virtual environment's mypy from the open file's folder so it
+    // finds pyproject.toml.
+    "mypy-type-checker.importStrategy": "fromEnvironment",
+    "mypy-type-checker.cwd": "${fileDirname}",
+
+    // Use the virtual environment's ruff.
+    "ruff.importStrategy": "fromEnvironment"
+}

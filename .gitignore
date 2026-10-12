@@ -1,0 +1,10 @@
+# Files Git must not track: they are generated and can be recreated.
+
+# Python virtual environment
+.venv/
+
+# Python and tooling caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

@@ -1,0 +1,9 @@
+{
+    // Extensions VS Code suggests installing when this folder is opened.
+    "recommendations": [
+        "charliermarsh.ruff",
+        "editorconfig.editorconfig",
+        "ms-python.mypy-type-checker",
+        "ms-python.python"
+    ]
+}

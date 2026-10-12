@@ -1,0 +1,46 @@
+# Tooling configuration for the Exercism Python track.
+# Each [tool.NAME] table holds the settings of one tool.
+
+# Development tools this workspace depends on (PEP 735).
+# Install them into the virtual environment with: pip install --group dev
+[dependency-groups]
+dev = [
+    "mypy",
+    "pre-commit",
+    "pytest",
+    "pytest-subtests",
+    "ruff",
+]
+
+# --- pytest: runs the tests ---
+[tool.pytest.ini_options]
+# Exercism tags some tests with "task"; declaring the marker avoids warnings.
+markers = ["task: A concept exercise task."]
+
+# --- mypy: static type checker ---
+[tool.mypy]
+# Python version Exercism uses to run submitted solutions.
+python_version = "3.13"
+# Strict mode: every function must have type annotations.
+strict = true
+# Skip Exercism's test files (they are untyped) and the virtual environment.
+exclude = ['_test\.py$', '\.venv']
+
+# --- ruff: linter and formatter ---
+[tool.ruff]
+target-version = "py313"
+line-length = 88
+# Skip Exercism's test files: they are not our code.
+extend-exclude = ["*_test.py"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors (PEP 8)
+    "W",   # pycodestyle warnings (PEP 8)
+    "F",   # pyflakes: unused variables, undefined names...
+    "I",   # isort: import ordering
+    "N",   # pep8-naming: naming conventions
+    "B",   # flake8-bugbear: common bugs and design problems
+    "UP",  # pyupgrade: outdated syntax
+    "SIM", # flake8-simplify: code that can be written more simply
+]

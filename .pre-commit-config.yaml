@@ -1,0 +1,28 @@
+# Checks that run automatically before every commit. https://pre-commit.com
+# The hooks call the tools installed in the virtual environment, so a commit
+# is checked with exactly the same versions as the terminal and the editor.
+repos:
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: ruff check
+        entry: python/.venv/bin/ruff check --force-exclude
+        language: system
+        types: [python]
+        require_serial: true
+
+      - id: ruff-format
+        name: ruff format
+        entry: python/.venv/bin/ruff format --force-exclude
+        language: system
+        types: [python]
+        require_serial: true
+
+      - id: mypy
+        name: mypy
+        entry: python/.venv/bin/mypy --config-file python/pyproject.toml
+        language: system
+        types: [python]
+        # Exercism's test files are untyped.
+        exclude: _test\.py$
+        require_serial: true
