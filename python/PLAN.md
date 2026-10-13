@@ -27,7 +27,7 @@ exercism download --track=python --exercise=<name>
 - [x] triangle
 - [x] darts
 - [x] **little-sisters-vocab**
-- [ ] reverse-string
+- [x] reverse-string
 
 ### Day 2 (~4.5 h)
 
