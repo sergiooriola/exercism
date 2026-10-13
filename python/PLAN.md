@@ -26,7 +26,7 @@ exercism download --track=python --exercise=<name>
 - [x] leap
 - [x] triangle
 - [x] darts
-- [ ] **little-sisters-vocab**
+- [x] **little-sisters-vocab**
 - [ ] reverse-string
 
 ### Day 2 (~4.5 h)
