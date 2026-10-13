@@ -1,8 +1,9 @@
 # Python track plan
 
-A 50-day plan to complete the 140 exercises that remained on Exercism's
-Python track after the first 6 (146 in total: 17 concept exercises and 129
-practice exercises).
+A 50-day plan to complete Exercism's Python track: 146 exercises in total
+(17 concept exercises and 129 practice exercises). The first 6 were solved
+before the plan started and are listed under Day 0; the 50 days cover the
+remaining 140.
 
 - Exercises are listed in the order to solve them. The order respects the
   track's unlock rules and goes from easier to harder.
@@ -17,6 +18,17 @@ Download an exercise with:
 ```bash
 exercism download --track=python --exercise=<name>
 ```
+
+## Day 0: before the plan
+
+Solved while setting up the tooling, before the 50 days started.
+
+- [x] hello-world
+- [x] **guidos-gorgeous-lasagna**
+- [x] **currency-exchange**
+- [x] **ghost-gobble-arcade-game**
+- [x] **meltdown-mitigation**
+- [x] **black-jack**
 
 ## Days 1–10: strings, lists, loops, tuples and dicts
 
