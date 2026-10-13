@@ -24,7 +24,7 @@ exercism download --track=python --exercise=<name>
 
 - [x] raindrops
 - [x] leap
-- [ ] triangle
+- [x] triangle
 - [ ] darts
 - [ ] **little-sisters-vocab**
 - [ ] reverse-string
