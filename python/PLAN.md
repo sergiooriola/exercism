@@ -43,7 +43,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 ### Day 2 (~4.5 h)
 
-- [ ] line-up
+- [x] line-up
 - [ ] **little-sisters-essay**
 - [ ] bob
 - [ ] **card-games**
