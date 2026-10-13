@@ -22,7 +22,7 @@ exercism download --track=python --exercise=<name>
 
 ### Day 1 (~5 h)
 
-- [ ] raindrops
+- [x] raindrops
 - [ ] leap
 - [ ] triangle
 - [ ] darts
