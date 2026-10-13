@@ -23,7 +23,7 @@ exercism download --track=python --exercise=<name>
 ### Day 1 (~5 h)
 
 - [x] raindrops
-- [ ] leap
+- [x] leap
 - [ ] triangle
 - [ ] darts
 - [ ] **little-sisters-vocab**
