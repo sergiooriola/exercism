@@ -52,7 +52,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 - [x] resistor-color
 - [x] resistor-color-duo
-- [ ] **chaitanas-colossal-coaster**
+- [x] **chaitanas-colossal-coaster**
 - [ ] resistor-color-trio
 - [ ] resistor-color-expert
 - [ ] **making-the-grade**
