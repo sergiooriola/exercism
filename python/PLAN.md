@@ -62,7 +62,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] collatz-conjecture
 - [x] grains
 - [x] difference-of-squares
-- [ ] armstrong-numbers
+- [x] armstrong-numbers
 - [ ] perfect-numbers
 - [ ] isogram
 
