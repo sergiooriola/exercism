@@ -54,7 +54,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] resistor-color-duo
 - [x] **chaitanas-colossal-coaster**
 - [x] resistor-color-trio
-- [ ] resistor-color-expert
+- [x] resistor-color-expert
 - [ ] **making-the-grade**
 
 ### Day 4 (~4.5 h)
