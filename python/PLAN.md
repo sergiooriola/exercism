@@ -59,7 +59,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 ### Day 4 (~4.5 h)
 
-- [ ] collatz-conjecture
+- [x] collatz-conjecture
 - [ ] grains
 - [ ] difference-of-squares
 - [ ] armstrong-numbers
