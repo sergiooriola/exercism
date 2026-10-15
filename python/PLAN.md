@@ -60,7 +60,7 @@ Solved while setting up the tooling, before the 50 days started.
 ### Day 4 (~4.5 h)
 
 - [x] collatz-conjecture
-- [ ] grains
+- [x] grains
 - [ ] difference-of-squares
 - [ ] armstrong-numbers
 - [ ] perfect-numbers
