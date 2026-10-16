@@ -70,7 +70,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 - [x] pangram
 - [x] hamming
-- [ ] rna-transcription
+- [x] rna-transcription
 - [ ] pig-latin
 - [ ] isbn-verifier
 - [ ] rotational-cipher
