@@ -64,7 +64,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] difference-of-squares
 - [x] armstrong-numbers
 - [x] perfect-numbers
-- [ ] isogram
+- [x] isogram
 
 ### Day 5 (~5 h)
 
