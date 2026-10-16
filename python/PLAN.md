@@ -72,7 +72,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] hamming
 - [x] rna-transcription
 - [x] pig-latin
-- [ ] isbn-verifier
+- [x] isbn-verifier
 - [ ] rotational-cipher
 
 ### Day 6 (~4.5 h)
