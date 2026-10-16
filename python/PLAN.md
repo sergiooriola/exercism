@@ -69,7 +69,7 @@ Solved while setting up the tooling, before the 50 days started.
 ### Day 5 (~5 h)
 
 - [x] pangram
-- [ ] hamming
+- [x] hamming
 - [ ] rna-transcription
 - [ ] pig-latin
 - [ ] isbn-verifier
