@@ -43,4 +43,5 @@ select = [
     "B",   # flake8-bugbear: common bugs and design problems
     "UP",  # pyupgrade: outdated syntax
     "SIM", # flake8-simplify: code that can be written more simply
+    "T10", # flake8-debugger: leftover breakpoint() calls and debugger imports
 ]
