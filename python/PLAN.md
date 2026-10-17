@@ -80,7 +80,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] secret-handshake
 - [x] anagram
 - [x] binary-search
-- [ ] flatten-array
+- [x] flatten-array
 - [ ] list-ops
 - [ ] house
 
