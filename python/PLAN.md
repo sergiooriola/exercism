@@ -77,7 +77,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 ### Day 6 (~4.5 h)
 
-- [ ] secret-handshake
+- [x] secret-handshake
 - [ ] anagram
 - [ ] binary-search
 - [ ] flatten-array
