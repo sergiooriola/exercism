@@ -23,5 +23,9 @@
     "mypy-type-checker.cwd": "${fileDirname}",
 
     // Use the virtual environment's ruff.
-    "ruff.importStrategy": "fromEnvironment"
+    "ruff.importStrategy": "fromEnvironment",
+
+    // Discover and run the exercises' tests with pytest in the Testing view.
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["python"]
 }
