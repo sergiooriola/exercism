@@ -81,7 +81,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] anagram
 - [x] binary-search
 - [x] flatten-array
-- [ ] list-ops
+- [x] list-ops
 - [ ] house
 
 ### Day 7 (~5.5 h)
