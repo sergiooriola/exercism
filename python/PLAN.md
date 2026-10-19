@@ -90,7 +90,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] square-root
 - [x] acronym
 - [x] eliuds-eggs
-- [ ] prime-factors
+- [x] prime-factors
 
 ### Day 8 (~5 h)
 
