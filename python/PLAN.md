@@ -94,7 +94,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 ### Day 8 (~5 h)
 
-- [ ] series
+- [x] series
 - [ ] twelve-days
 - [ ] roman-numerals
 - [ ] **inventory-management**
