@@ -88,7 +88,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 - [x] **tisbury-treasure-hunt**
 - [x] square-root
-- [ ] acronym
+- [x] acronym
 - [ ] eliuds-eggs
 - [ ] prime-factors
 
