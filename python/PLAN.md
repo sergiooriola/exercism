@@ -86,7 +86,7 @@ Solved while setting up the tooling, before the 50 days started.
 
 ### Day 7 (~5.5 h)
 
-- [ ] **tisbury-treasure-hunt**
+- [x] **tisbury-treasure-hunt**
 - [ ] square-root
 - [ ] acronym
 - [ ] eliuds-eggs
