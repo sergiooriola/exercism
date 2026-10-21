@@ -103,7 +103,7 @@ Solved while setting up the tooling, before the 50 days started.
 ### Day 9 (~5 h)
 
 - [x] space-age
-- [ ] word-count
+- [x] word-count
 - [ ] scrabble-score
 - [ ] protein-translation
 - [ ] sublist
