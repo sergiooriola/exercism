@@ -105,7 +105,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] space-age
 - [x] word-count
 - [x] scrabble-score
-- [ ] protein-translation
+- [x] protein-translation
 - [ ] sublist
 
 ### Day 10
