@@ -106,7 +106,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] word-count
 - [x] scrabble-score
 - [x] protein-translation
-- [ ] sublist
+- [x] sublist
 
 ### Day 10
 
