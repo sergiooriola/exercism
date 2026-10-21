@@ -98,7 +98,7 @@ Solved while setting up the tooling, before the 50 days started.
 - [x] twelve-days
 - [x] roman-numerals
 - [x] **inventory-management**
-- [ ] etl
+- [x] etl
 
 ### Day 9 (~5 h)
 
