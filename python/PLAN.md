@@ -117,7 +117,7 @@ Buffer day.
 ### Day 11 (~5.5 h)
 
 - [x] matching-brackets
-- [ ] **mecha-munch-management**
+- [x] **mecha-munch-management**
 - [ ] atbash-cipher
 - [ ] diamond
 - [ ] run-length-encoding
