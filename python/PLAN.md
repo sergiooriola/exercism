@@ -118,7 +118,7 @@ Buffer day.
 
 - [x] matching-brackets
 - [x] **mecha-munch-management**
-- [ ] atbash-cipher
+- [x] atbash-cipher
 - [ ] diamond
 - [ ] run-length-encoding
 
