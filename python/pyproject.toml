@@ -23,8 +23,9 @@ markers = ["task: A concept exercise task."]
 python_version = "3.13"
 # Strict mode: every function must have type annotations.
 strict = true
-# Skip Exercism's test files (they are untyped) and the virtual environment.
-exclude = ['_test\.py$', '\.venv']
+# Skip Exercism's test and test data files (they are untyped) and the virtual
+# environment.
+exclude = ['_test(_data)?\.py$', '\.venv']
 
 # --- ruff: linter and formatter ---
 [tool.ruff]
@@ -33,8 +34,9 @@ target-version = "py313"
 # PEP 8 suggests 72 for comments and docstrings, but lets project guides take
 # precedence, so that limit (rule W505) is deliberately not enforced.
 line-length = 88
-# Skip Exercism's test files and Markdown docs: they are not our code.
-extend-exclude = ["*_test.py", "*.md"]
+# Skip Exercism's test files, test data files and Markdown docs: they are not
+# our code.
+extend-exclude = ["*_test.py", "*_test_data.py", "*.md"]
 
 [tool.ruff.lint]
 select = [

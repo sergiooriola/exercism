@@ -23,6 +23,6 @@ repos:
         entry: python/.venv/bin/mypy --config-file python/pyproject.toml
         language: system
         types: [python]
-        # Exercism's test files are untyped.
-        exclude: _test\.py$
+        # Exercism's test and test data files are untyped.
+        exclude: _test(_data)?\.py$
         require_serial: true
