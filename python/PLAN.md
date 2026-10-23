@@ -120,7 +120,7 @@ Buffer day.
 - [x] **mecha-munch-management**
 - [x] atbash-cipher
 - [x] diamond
-- [ ] run-length-encoding
+- [x] run-length-encoding
 
 ### Day 12 (~4.5 h)
 
