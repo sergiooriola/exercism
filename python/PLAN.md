@@ -125,7 +125,7 @@ Buffer day.
 ### Day 12 (~4.5 h)
 
 - [x] nth-prime
-- [ ] say
+- [x] say
 - [ ] **locomotive-engineer**
 - [ ] proverb
 
