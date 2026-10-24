@@ -126,7 +126,7 @@ Buffer day.
 
 - [x] nth-prime
 - [x] say
-- [ ] **locomotive-engineer**
+- [x] **locomotive-engineer**
 - [ ] proverb
 
 ### Day 13 (~5.5 h)
