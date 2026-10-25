@@ -131,7 +131,7 @@ Buffer day.
 
 ### Day 13 (~5.5 h)
 
-- [ ] transpose
+- [x] transpose
 - [ ] **cater-waiter**
 - [ ] two-fer
 - [ ] sum-of-multiples
