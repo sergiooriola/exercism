@@ -133,7 +133,7 @@ Buffer day.
 
 - [x] transpose
 - [x] **cater-waiter**
-- [ ] two-fer
+- [x] two-fer
 - [ ] sum-of-multiples
 - [ ] sieve
 
