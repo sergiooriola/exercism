@@ -34,9 +34,14 @@ target-version = "py313"
 # PEP 8 suggests 72 for comments and docstrings, but lets project guides take
 # precedence, so that limit (rule W505) is deliberately not enforced.
 line-length = 88
-# Skip Exercism's test files, test data files and Markdown docs: they are not
-# our code.
-extend-exclude = ["*_test.py", "*_test_data.py", "*.md"]
+# Skip Exercism's test files, test data files, other data files and Markdown
+# docs: they are not our code.
+extend-exclude = [
+    "*_test.py",
+    "*_test_data.py",
+    "sets_categories_data.py",
+    "*.md",
+]
 
 [tool.ruff.lint]
 select = [
