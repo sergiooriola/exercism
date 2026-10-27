@@ -139,7 +139,7 @@ Buffer day.
 
 ### Day 14 (~5 h)
 
-- [ ] saddle-points
+- [x] saddle-points
 - [ ] pythagorean-triplet
 - [ ] **ellens-alien-game**
 - [ ] gigasecond
