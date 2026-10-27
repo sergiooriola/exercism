@@ -135,7 +135,7 @@ Buffer day.
 - [x] **cater-waiter**
 - [x] two-fer
 - [x] sum-of-multiples
-- [ ] sieve
+- [x] sieve
 
 ### Day 14 (~5 h)
 
