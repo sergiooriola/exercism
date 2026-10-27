@@ -134,7 +134,7 @@ Buffer day.
 - [x] transpose
 - [x] **cater-waiter**
 - [x] two-fer
-- [ ] sum-of-multiples
+- [x] sum-of-multiples
 - [ ] sieve
 
 ### Day 14 (~5 h)
