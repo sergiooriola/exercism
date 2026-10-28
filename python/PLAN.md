@@ -146,7 +146,7 @@ Buffer day.
 
 ### Day 15 (~5 h)
 
-- [ ] luhn
+- [x] luhn
 - [ ] dnd-character
 - [ ] robot-name
 - [ ] phone-number
