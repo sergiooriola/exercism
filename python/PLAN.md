@@ -147,7 +147,7 @@ Buffer day.
 ### Day 15 (~5 h)
 
 - [x] luhn
-- [ ] dnd-character
+- [x] dnd-character
 - [ ] robot-name
 - [ ] phone-number
 - [ ] queen-attack
