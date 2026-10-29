@@ -150,7 +150,7 @@ Buffer day.
 - [x] dnd-character
 - [x] robot-name
 - [x] phone-number
-- [ ] queen-attack
+- [x] queen-attack
 
 ### Day 16 (~5.5 h)
 
