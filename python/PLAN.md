@@ -148,7 +148,7 @@ Buffer day.
 
 - [x] luhn
 - [x] dnd-character
-- [ ] robot-name
+- [x] robot-name
 - [ ] phone-number
 - [ ] queen-attack
 
