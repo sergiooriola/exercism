@@ -149,7 +149,7 @@ Buffer day.
 - [x] luhn
 - [x] dnd-character
 - [x] robot-name
-- [ ] phone-number
+- [x] phone-number
 - [ ] queen-attack
 
 ### Day 16 (~5.5 h)
