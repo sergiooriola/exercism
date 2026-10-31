@@ -155,7 +155,7 @@ Buffer day.
 ### Day 16 (~5.5 h)
 
 - [x] yacht
-- [ ] high-scores
+- [x] high-scores
 - [ ] matrix
 - [ ] kindergarten-garden
 
